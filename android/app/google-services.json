@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115089752934",
+    "firebase_url": "https://fir-flutter-a9036.firebaseio.com",
+    "project_id": "fir-flutter-a9036",
+    "storage_bucket": "fir-flutter-a9036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115089752934:android:f975e1a320733a859ffea7",
+        "android_client_info": {
+          "package_name": "com.yovin.databaseinflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115089752934-1moqbo868db7lia3e1ajvqeln987hdpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yovin.databaseinflutter",
+            "certificate_hash": "02d87452cc4c511877cafc55e9fb337613b5cb3b"
+          }
+        },
+        {
+          "client_id": "115089752934-s428e1fvieoli758c6imov78qsiks96p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPI2mj1MmWJNIA92gfNWSKv6A7qAS4lMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115089752934-s428e1fvieoli758c6imov78qsiks96p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
